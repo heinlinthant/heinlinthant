@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hein Lin Thant</h1>
+<h3 align="center">Hi 👋, I'm Hein Lin Thant</h3>
 <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" width="400px" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heinlinthant&label=Profile%20views&color=0e75b6&style=flat" alt="heinlinthant" /> </p>
 
